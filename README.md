@@ -1,6 +1,6 @@
-# main.css
+#main.css
 body { background-color: huntergreen; 
-color: black
+color:black
 }
 nav {
 height: 6000px;
